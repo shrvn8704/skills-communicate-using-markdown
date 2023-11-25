@@ -6,3 +6,6 @@
 ```javascript
 var myvar = "Hey I am Shravan D A";
 ```
+- [ ] github set up
+- [ ] created pull
+- [ ] learned to use basic git 
